@@ -13,3 +13,5 @@ pypdf
 langchain_experimental
 tabulate
 chromadb
+pysqlite3
+pysqlite3-binary
